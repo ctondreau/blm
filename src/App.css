@@ -2,7 +2,7 @@
   vertical-align:middle;
   background-color:white;
   margin:auto;
-  margin-top:10px
+  margin-top:10px;
 }
 
 .navbar{
@@ -40,8 +40,11 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.section_inner{
+  padding:20px;
+}
+
 .section1{
-  padding-top:45px;
   height:100vh;
   width:100vw;
   background:lightslategray;
@@ -67,7 +70,6 @@
 }
 
 .section2{
-  padding-top:45px;
   height:100vh;
   width:100vw;
   background:saddlebrown;
